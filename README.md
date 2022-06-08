@@ -10,6 +10,8 @@ A simple planet simulator created in three.js. Solar sim allows you to move arou
 
 **Toggle freelook** - f - on, 0 - off
 
+**Use freelook** - WASD
+
 **Zoom** - Scrolling or -= keys
 
 **Change planet focus** - Numbers
