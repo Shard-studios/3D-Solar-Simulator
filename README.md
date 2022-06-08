@@ -26,3 +26,7 @@ Nice and simple to download this one, clone the repository and open up index.htm
 
 Here are some pictures captured in the sim:
 
+![Image](https://github.com/Shard-studios/3D-Solar-Simulator/blob/main/readme-images/img1.png)
+![Image](https://github.com/Shard-studios/3D-Solar-Simulator/blob/main/readme-images/img2.png)
+![Image](https://github.com/Shard-studios/3D-Solar-Simulator/blob/main/readme-images/img3.png)
+![Image](https://github.com/Shard-studios/3D-Solar-Simulator/blob/main/readme-images/img4.png)
