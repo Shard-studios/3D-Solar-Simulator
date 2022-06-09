@@ -2,7 +2,7 @@
 
 # Intro
 
-A simple planet simulator created in three.js by the shard team (github.com/JonathanPont, github.com/HamishHamiltonSmith). Solar sim allows you to move around a 3D scaled scene of the planets in our solar system. Distances are scaled accurately to real planetary data (sadly we had to amplify the planet sizes for ease of view). You should be able to quickly set this up on most modern web browsers, check out the download instructions for that.
+A simple planet simulator created in three.js by the shard team ([Jonathan](https://github.com/JonathanPont), [Me (Hamish)](github.com/HamishHamiltonSmith)). Solar sim allows you to move around a 3D scaled scene of the planets in our solar system. Distances are scaled accurately to real planetary data (sadly we had to amplify the planet sizes for ease of view). You should be able to quickly set this up on most modern web browsers, check out the download instructions for that.
 
 # Controls
 
